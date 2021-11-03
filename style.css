@@ -82,6 +82,7 @@ body {
 #pickup ul li img {
   max-width: 100%;
   margin-bottom: 10px;
+  aspect-ratio: 16 / 9;
 }
 
 #pickup p {
@@ -144,6 +145,7 @@ article ul li {
 article img {
   max-width: 100%;
   margin: 10px 0;
+  aspect-ratio: 16 / 9;
 }
 
 .text {
@@ -190,6 +192,7 @@ article h2 {
 
 .ranking img {
   max-width: 100%;
+  aspect-ratio: 16 / 9;
 }
 
 .ranking p {
